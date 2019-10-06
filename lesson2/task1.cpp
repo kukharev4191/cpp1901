@@ -1,6 +1,6 @@
 
 # include <iostream>
-# include <word>
+# include <array>
 
 using namespace std;
 
